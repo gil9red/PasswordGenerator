@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="IconSave">images/save.png</file>
+        <file alias="IconQuit">images/quit.png</file>
+        <file alias="IconClipboard">images/clipboard.png</file>
+        <file alias="IconGenerate">images/refreshblue.png</file>
+        <file alias="IconProgram">images/icon.png</file>
+    </qresource>
+</RCC>
